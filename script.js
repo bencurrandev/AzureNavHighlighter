@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Azure Nav Highlighter
 // @namespace    https://github.com/BenDutton/AzureNavHighlighter
-// @version      1.1.0
+// @version      1.1.1
 // @description  Highlight the Azure nav bar based off the current environment
 // @author       Benjamin Dutton
 // @match        https://*.portal.azure.com/*
+// @match        https://*.entra.microsoft.com/*
 // @updateURL    https://raw.githubusercontent.com/BenDutton/AzureNavHighlighter/master/script.js
 // @downloadURL  https://raw.githubusercontent.com/BenDutton/AzureNavHighlighter/master/script.js
 // @grant        none
